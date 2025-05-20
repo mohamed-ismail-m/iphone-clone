@@ -16,7 +16,7 @@ const HeroSection =() => {
         
            <div className='text-center mb-12'> 
             <h1 className='font-semibold text-4xl'>Mother's Day</h1>
-            <p className='text-xl mt-2'>It's not too late to find the perfect gift for Mom</p>
+            <p className='text-xl mt-2'>It's not too late to find the perfect gift for your Mom</p>
             <button className='bg-blue-600 text-white px-4 py-2 rounded-full mt-5'>shop</button>
 
             </div>
