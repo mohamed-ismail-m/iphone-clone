@@ -26,7 +26,7 @@ const HeroSection =() => {
         
             <div className='text-center m-12'>
                 <h2 className='font-semibold text-4xl'>iPhone</h2>
-                <p className='text-xl mt-2'>Meet the iPhone 16 family.</p>
+                <p className='text-xl mt-2'>Meet the iPhone 1 family.</p>
                 <button className='bg-blue-600 text-white px-4 py-2 rounded-full mt-5'>Learn more</button>
          <button className='bg-transparent text-blue-600 px-4 py-2 border border-blue-600 rounded-full mt-5 ml-4'>Shop iPhone</button>
          <p className='text-lg font-medium mt-7 bg-gradient-to-r from-blue-400 via-pink-500 to-orange-600 bg-clip-text text-transparent'>Built for Apple Intelligence.</p>
