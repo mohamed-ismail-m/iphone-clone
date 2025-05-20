@@ -11,7 +11,7 @@ const HeroSection =() => {
 
     return(
         <div className='flex flex-col gap-3'>
-           {/* <div className='h-[80vh] bg-cover bg-center flex justify-center items-end' style={{ backgroundImage: `url(${heroImage})` }}></div> */}
+           
            <div className='h-[80vh] bg-cover bg-center flex justify-center items-end'style={{backgroundImage: `url(${heroImage})`}}>
         
            <div className='text-center mb-12'> 
