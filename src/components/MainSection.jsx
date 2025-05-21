@@ -11,7 +11,7 @@ import iphone_tradein from '../assets/Image/iphone_tradein.jpg';
 
 
 
-const HeroSection =() => {
+const MainSection =() => {
 
     return(
         <div className='grid gap-3 m-3 grid-cols-1 md:grid-cols-2'>
@@ -90,4 +90,4 @@ const HeroSection =() => {
     )
 }
 
-export default HeroSection;
+export default MainSection;
